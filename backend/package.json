@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node express.js",
+    "start:demon": "nodemon express.js",
+    "start:wss": "node wss.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "websocket": "^1.0.34"
+  },
+  "type": "module"
+}

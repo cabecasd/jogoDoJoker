@@ -1,0 +1,135 @@
+
+{
+    "questions": [
+        {
+            "question": "Quem foi a primeira pessoa a dar voz à personagem Mickey?",
+            "options": [
+                {"key": "a", "text": "Walt Disney"},
+                {"key": "b", "text": "Roy Disney"},
+                {"key": "c", "text": "Ub Iwerks"},
+                {"key": "d", "text": "Lillian Disney"}
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Que raça de cavalo é o Spirit?",
+            "options": [
+                {"key": "a", "text": "Puro Sangue Lusitano"},
+                {"key": "b", "text": "Puro Sangue Inglês"},
+                {"key": "c", "text": "Árabe"},
+                {"key": "d", "text": "Mustang"}
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Quais os nome dos ursos principais no filme Irmão Urso (Brother Bear)?",
+            "options": [
+                {"key": "a", "text": "Kato e Kinoa"},
+                {"key": "b", "text": "Kevin e Kovu"},
+                {"key": "c", "text": "Kenai e Koda"},
+                {"key": "d", "text": "Ken e King"}
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Qual o primeiro filme produzido e realizado por Walt Disney?",
+            "options": [
+                {"key": "a", "text": "A Branca de Neve"},
+                {"key": "b", "text": "Alice no Pais das Maravilhas"},
+                {"key": "c", "text": "Cinderella"},
+                {"key": "d", "text": "A Bela Adormecida"}
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Como conseguiu Faisca Mcquenn ganhar a corrida final?",
+            "options": [
+                {"key": "a", "text": "Esticou a língua"},
+                {"key": "b", "text": "Usou nitro"},
+                {"key": "c", "text": "Sabotou os adversários"},
+                {"key": "d", "text": "Os outros carros desistiram"}
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Quais as especies dos animais amigos da Pocahontas?",
+            "options": [
+                {"key": "a", "text": "Piriquito e Doninha"},
+                {"key": "b", "text": "Pica-pau e Texugo"},
+                {"key": "c", "text": "Colibri e Guaxinim"},
+                {"key": "d", "text": "Andorinha e Raposa"}
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Como se chama os ajudantes de Hades no filme Hércules?",
+            "options": [
+                {"key": "a", "text": "Bucha e Estica"},
+                {"key": "b", "text": "Angústia e Medo"},
+                {"key": "c", "text": "Dor e Sofrimento"},
+                {"key": "d", "text": "Agonia e Pânico"}
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Quais os nomes dos anões no filme Branca de Neve e os Sete Anões?",
+            "options": [
+                {"key": "a", "text": "Sabichão, Timido, Atchim, Feliz, Dunga, Soneca e Zangado"},
+                {"key": "b", "text": "Sabichão, Envegonhado, Fungoso, Contente, Dunga, Preguiça e Zangado"},
+                {"key": "c", "text": "Sabichão, Timido, Fungoso, Feliz, Dunga, Soneca e Raivoso"},
+                {"key": "d", "text": "Sabichão, Envergonhado, Atchim, Contente, Dunga, Preguiça e Raivoso"}
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "No filme Robin Hood, que tipo de animal é o Joãozinho?",
+            "options": [
+                {"key": "a", "text": "Um urso"},
+                {"key": "b", "text": "Um leão"},
+                {"key": "c", "text": "Um crocodilo"},
+                {"key": "d", "text": "Um cavalo"}
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Qual o nome dos dois cães principais no filme 101 Dálmatas?",
+            "options": [
+                {"key": "a", "text": "Roger e Anita"},
+                {"key": "b", "text": "Pongo e Prenda"},
+                {"key": "c", "text": "Jasper e Lucy"},
+                {"key": "d", "text": "Lord e Lady"}
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Que animais acolheram e criaram Mogli no filme Livro da Selva?",
+            "options": [
+                {"key": "a", "text": "Leões"},
+                {"key": "b", "text": "Macacos"},
+                {"key": "c", "text": "Lobos"},
+                {"key": "d", "text": "Hienas"}
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Alegria, Tristeza, Medo, Raiva e Nojinho são as emoções de quem no filme Divertidamente?",
+            "options": [
+                {"key": "a", "text": "Kelly"},
+                {"key": "b", "text": "Maisy"},
+                {"key": "c", "text": "Lola"},
+                {"key": "d", "text": "Riley"}
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "No filme Lilo & Stitch qual o número da experiência que deu origem a Stitch?",
+            "options": [
+                {"key": "a", "text": "535"},
+                {"key": "b", "text": "242"},
+                {"key": "c", "text": "626"},
+                {"key": "d", "text": "454"}
+            ],
+            "answer": "c"
+        }
+    ]
+}

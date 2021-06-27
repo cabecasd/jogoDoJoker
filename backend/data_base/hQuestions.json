@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "Qual o verdadeiro nome da Boo no filme Monstro e Companhia?",
+            "options": [
+                {"key": "a", "text": "Sally"},
+                {"key": "b", "text": "Jane"},
+                {"key": "c", "text": "Claire"},
+                {"key": "d", "text": "Mary"}
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "Qual é a especie de peixe do Flounder (Pequena Sereia)?",
+            "options": [
+                {"key": "a", "text": "Peixe Anjo-Real"},
+                {"key": "b", "text": "Linguado"},
+                {"key": "c", "text": "Bacalhau"},
+                {"key": "d", "text": "Peixe-Imperador"}
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Qual o nome do gato da madrasta da Cinderela?",
+            "options": [
+                {"key": "a", "text": "Belzebu"},
+                {"key": "b", "text": "Figaro"},
+                {"key": "c", "text": "Lucifer"},
+                {"key": "d", "text": "Pascal"}
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Quantas princesas da Disney existem oficialmente?",
+            "options": [
+                {"key": "a", "text": "13"},
+                {"key": "b", "text": "15"},
+                {"key": "c", "text": "9"},
+                {"key": "d", "text": "16"}
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Em que objeto foi transformado Zip no filme A Bela e o Monstro?",
+            "options": [
+                {"key": "a", "text": "Um livro"},
+                {"key": "b", "text": "Uma xícara"},
+                {"key": "c", "text": "Uma jarra"},
+                {"key": "d", "text": "Um relógio"}
+            ],
+            "answer": "b"
+        }, 
+        {
+            "question": "Qual foi o 50º filme de animação que a Disney lançou?",
+            "options": [
+                {"key": "a", "text": "Moana"},
+                {"key": "b", "text": "Rei Leão"},
+                {"key": "c", "text": "Entrelaçados"},
+                {"key": "d", "text": "O Livro da Selva"}
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Quando é que Ub Iwerks e Walt Disney criaram o Rato Mickey?",
+            "options": [
+                {"key": "a", "text": "1923"},
+                {"key": "b", "text": "1918"},
+                {"key": "c", "text": "1920"},
+                {"key": "d", "text": "1928"}
+            ],
+            "answer": "d"
+        }
+    ]
+}
